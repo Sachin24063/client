@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/Footer.js"],"names":["Footer","React","createElement","Fragment"],"mappings":"mGAAA,2BAKeA,UAJAA,IACNC,IAAAC,cAAAD,IAAAE,SAAA","file":"static/js/22.cfedfcdd.chunk.js","sourcesContent":["import React from \"react\";\nconst Footer = () => {\n  return <></>;\n};\n\nexport default Footer;\n"],"sourceRoot":""}
