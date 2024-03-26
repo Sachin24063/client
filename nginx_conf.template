@@ -44,7 +44,7 @@ http {
 
         #react app and front end files
         location / {
-        root    /root/client/build;
+        root    /home/ubuntu/client/build;
         index index.html index.htm
         try_files $uri /index.html;
         }
